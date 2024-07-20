@@ -1,4 +1,9 @@
-# Getting Started with Create React App
+# Morse Code to English convertor
+
+This is an simple react app that converts the given morse code into English text and vice versa.
+
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
