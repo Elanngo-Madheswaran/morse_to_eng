@@ -2,7 +2,7 @@ import React, { Component } from 'react';
 import Eng from './components/eng';
 import Morse from './components/morse';
 import './App.css';
-import './img.png';
+
 class App extends Component {
     constructor(props) {
         super(props);
