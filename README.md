@@ -1,4 +1,4 @@
-#Morse Code to English convertor
+# Morse Code to English convertor
 
 This is an simple react app that converts the given morse code into English text and vice versa.
 
